@@ -6,23 +6,31 @@
 
 ### Ciência da Computação • Data Science • Machine Learning
 
-https://komarev.com/ghpvc/?username=GsacomaniR&color=grey&style=flat-square
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=GsacomaniR.GsacomaniR&"  />
+</div>
 
-> *"Nem tudo faz sentido de primeira. Algumas coisas só precisam de mais observação."*
+> "Antes de tirar conclusões, vale a pena observar por mais alguns minutos."
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 🌙 Sobre mim
 
-Meu nome é **Gustavo**.
+Gustavo.
 
-Atualmente curso **Ciência da Computação** e passo boa parte do meu tempo tentando entender como as coisas realmente funcionam.
+Estudante de Ciência da Computação.
 
-Tenho grande interesse por **Ciência de Dados** e **Machine Learning**, mas acredito que aprender tecnologias diferentes é tão importante quanto se especializar.
+Tenho interesse em Data Science, Machine Learning
+e em qualquer área que responda uma pergunta sem criar dez novas.
 
-Gosto de resolver problemas, descobrir padrões, desenvolver projetos e aprender algo novo a cada desafio.
+Gosto de analisar padrões, entender sistemas
+e descobrir por que algo funciona antes de aprender a reproduzir.
+
+Ainda não decidi exatamente onde quero chegar.
+
+Mas estou observando.
 
 No fim das contas:
 
@@ -47,28 +55,26 @@ Repetir
 ```python
 class Gustavo:
     def __init__(self):
-        self.curso = "Ciência da Computação"
+        self.course = "Computer Science"
 
-        self.interesses = [
+        self.interests = {
             "Data Science",
             "Machine Learning",
-            "Desenvolvimento"
-        ]
+            "Algorithms"
+        }
 
-        self.cafe = True
+         self.cafe = True
         self.sono = False
 
-    def estudar(self):
-        while True:
-            aprender()
-            errar()
-            corrigir()
+    def solve_problem(self):
+        try:
+            understand()
+            implement()
+        except UnexpectedBehavior:
+            stare_at_screen()
 
-    def objetivo(self):
-        return "continuar evoluindo"
-
-    def status(self):
-        return "em desenvolvimento..."
+    def future(self):
+        return "still under investigation"
 ```
 
 <div align="center">
@@ -85,42 +91,44 @@ class Gustavo:
 
 ### Linguagens
 
-https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
 ### Desenvolvimento Web
 
-https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26
-https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
 ### Banco de Dados
 
-https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
 ---
 
 ## 🔬 Interesses
 
-```text
-Data Science
- ├─ Análise de Dados
- ├─ Estatística
- ├─ Visualização
- └─ Descoberta de Padrões
+• Data Science
 
-Machine Learning
- ├─ Modelos Preditivos
- ├─ Classificação
- ├─ Regressão
- └─ Experimentação
+• Machine Learning
 
-Desenvolvimento
- ├─ Backend
- ├─ Web
- ├─ Algoritmos
- └─ Sistemas
-```
+• Inteligência Artificial
+
+• Algoritmos
+
+• Sistemas
+
+• Coisas interessantes o suficiente
+  para me fazer perder a noção do tempo.
 
 Ainda explorando diferentes áreas.
 
@@ -130,36 +138,20 @@ Provavelmente continuarei explorando por um bom tempo.
 
 ## 📖 Atualmente
 
-- 🎓 Cursando Ciência da Computação
-- 🐍 Aprendendo cada vez mais Python
-- 📊 Explorando Ciência de Dados
-- 🤖 Estudando Machine Learning
-- 💻 Desenvolvendo projetos para ganhar experiência
-- ☕ Convertendo café em código funcional
+- 🎓 Ciência da Computação
+- 🐍 Python
+- 📊 Ciência de Dados
+- 🤖 Machine Learning
+- 🔍 Tentando entender sistemas complexos
+- ☕ Mantendo uma quantidade questionável de café no organismo
 
 ---
 
 ## 📈 GitHub
 
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=GsacomaniR&show_icons=true&theme=tokyonight&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=GsacomaniR&layout=compact&theme=tokyonight&hide_border=true
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=GsacomaniR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
----
-
-## 🌃 Status Atual
-
-```text
-[████████░░] Aprendendo
-```
-
-Ainda não cheguei onde quero.
-
-Mas também não sou mais quem começou.
 
 ---
 
@@ -167,10 +159,10 @@ Mas também não sou mais quem começou.
 
 <img src="https://66.media.tumblr.com/80ed87708aaf8e69f1d42a3f8c38e6e3/tumblr_pik9b7qKeP1sohvrd_1280.gif" width="500">
 
-### 🌙 Boa noite.
+### 🌙 Até a próxima.
 
-> *"O conhecimento não acaba."*
+> "Sempre existe algo novo para aprender.
 >
-> *"Ainda bem."*
+> Infelizmente."
 
 </div>
